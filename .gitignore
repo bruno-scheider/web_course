@@ -1,0 +1,8 @@
+*/_MACOSX/*
+*.DS_Store
+*.mp3
+*.jpg
+*.png
+*.json
+*/node_modules/*
+*/__MACOSX/*

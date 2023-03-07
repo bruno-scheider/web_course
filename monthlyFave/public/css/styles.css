@@ -1,0 +1,25 @@
+html {
+
+}
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  background-color: #F7F7F7;
+  /*** background-image: -webkit-linear-gradient(65deg, #F7F7F7 50%, #FFBC97 50%); */
+  text-align: center;
+}
+h1 {
+  color: #FF7800;
+  font-size: 10rem;
+}
+h2 {
+  color: #FF7800;
+}
+h3 {
+  color: #FFE300;
+}
+footer {
+  color: #FFBC97;
+}
+p {
+  color: #FF7800;
+}
